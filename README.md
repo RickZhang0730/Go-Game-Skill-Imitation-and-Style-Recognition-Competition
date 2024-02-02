@@ -1,5 +1,5 @@
-# AIcupTutorial
-NDHU AI Lab - AICup Tutorial
+# Utilized Convolutional Neural Network (DCNN Model) to enhance move prediction accuracy and categorize playing styles
+# Replicating human behavior and predicting moves on a Go board with Dan and Kyu player simulations
 
 # Introduction
 There are 3 AI models required to train in this contest, namely Dan, Kyu, and Play Style models. The baseline models are trained by using TensorFlow 2.9 and shared in this repository. 
@@ -14,7 +14,3 @@ There are 3 AI models required to train in this contest, namely Dan, Kyu, and Pl
   - **model_kyu_tutorial.h5**: Baseline model of Kyu dataset
   - **model_playstyle_tutorial.h5**: Baseline model of PlayStyle dataset
   - **public_submission_template**: Predictions for public testing datasets
-
-To generate the baseline models, you can follow tutorial notebooks.
-
-For submission, you can follow **Create Public Upload CSV.ipynb** notebook.
