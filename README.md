@@ -1,5 +1,5 @@
-# Utilized Convolutional Neural Network (DCNN Model) to enhance move prediction accuracy and categorize playing styles
-# Replicating human behavior and predicting moves on a Go board with Dan and Kyu player simulations
+Utilized Convolutional Neural Network (DCNN Model) to enhance move prediction accuracy and categorize playing styles
+Replicating human behavior and predicting moves on a Go board with Dan and Kyu player simulations
 
 # Introduction
 There are 3 AI models required to train in this contest, namely Dan, Kyu, and Play Style models. The baseline models are trained by using TensorFlow 2.9 and shared in this repository. 
