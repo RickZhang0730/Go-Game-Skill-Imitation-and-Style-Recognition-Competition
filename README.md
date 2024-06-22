@@ -100,6 +100,14 @@ In the Recognition of Go Playing Styles, the task involves identifying the playi
 
 This study aims to comprehensively assess the model's performance by simulating and recognizing various skill levels and playing styles in the game of Go, providing valuable insights for the advancement of artificial intelligence in the field of Go.
 
+# Results
+**Public_test & Leaderboard [46/508]:**
+<div align = left><img width="390" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A11.JPG"></div><img width="390" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C1.JPG"/></div>
+
+**Private_test & Leaderboard [48/508]:**
+<div align = left><img width="390" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A12.JPG"></div><img width="390" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C2.JPG"/></div>
+
+
 # Conclusion
 The game of Go itself is incredibly complex, making this project quite challenging for us. The comprehensive assessment across various skill levels and styles, the emulation based on analyzing others' playing styles, predicting the next move's position, and identifying different playing styles have deepened our understanding and application of deep learning. 
 
