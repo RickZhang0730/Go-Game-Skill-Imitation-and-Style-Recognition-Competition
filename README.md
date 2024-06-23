@@ -84,14 +84,42 @@ We choose a Convolutional Neural Network model (DCNN Model) as it can learn intr
 ### Training models:
 **Dan model:**
 - old version vs new version
-<div align = left><img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8Bold.JPG"><img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8B.JPG"/></div>
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <p>old version</p>
+      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8Bold.JPG" alt="Dan Old Version">
+    </td>
+    <td align="center" style="border: none;">
+      <p>new version</p>
+      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8B.JPG" alt="Dan New Version">
+    </td>
+  </tr>
+</table>
 
 **Kyu model:**
 - old version vs new version
-<div align = left><img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8Bold.JPG   "><img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8B.JPG"/></div>
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <p>old version</p>
+      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8Bold.JPG" alt="Kyu Old Version">
+    </td>
+    <td align="center" style="border: none;">
+      <p>new version</p>
+      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8B.JPG" alt="Kyu New Version">
+    </td>
+  </tr>
+</table>
 
 **Playing-style model:**
-<div align = left><img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Playing-style%E6%A8%A1%E5%9E%8B.JPG"/></div>
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Playing-style%E6%A8%A1%E5%9E%8B.JPG" alt="Playing-style">
+    </td>
+  </tr>
+</table>
 
 # Experiment
 The experiment is divided into two main parts: The Imitation Go Skill Competition and The Recognition of Go Playing Styles. In the Imitation Go Skill Competition, we aim to replicate the playstyles of 1-dan and 10-kyu Go players. For each player level, we provide predictions for the most likely move and predictions for five possible moves, considering a prediction as correct if it includes the actual move. The accuracy is assessed separately for the 1st and 5th predictions, denoted as One_Dan_1, One_Dan_5, Ten_Kyu_1, and Ten_Kyu_5.
