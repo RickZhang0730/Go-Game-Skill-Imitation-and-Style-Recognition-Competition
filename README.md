@@ -88,11 +88,11 @@ We choose a Convolutional Neural Network model (DCNN Model) as it can learn intr
   <tr>
     <td align="center" style="border: none;">
       <p>old version</p>
-      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8Bold.JPG" alt="Dan Old Version">
+      <img width="300" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8Bold.JPG" alt="Dan Old Version">
     </td>
     <td align="center" style="border: none;">
       <p>new version</p>
-      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8B.JPG" alt="Dan New Version">
+      <img width="300" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Dan%E6%A8%A1%E5%9E%8B.JPG" alt="Dan New Version">
     </td>
   </tr>
 </table>
@@ -103,11 +103,11 @@ We choose a Convolutional Neural Network model (DCNN Model) as it can learn intr
   <tr>
     <td align="center" style="border: none;">
       <p>old version</p>
-      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8Bold.JPG" alt="Kyu Old Version">
+      <img width="300" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8Bold.JPG" alt="Kyu Old Version">
     </td>
     <td align="center" style="border: none;">
       <p>new version</p>
-      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8B.JPG" alt="Kyu New Version">
+      <img width="300" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Kyu%E6%A8%A1%E5%9E%8B.JPG" alt="Kyu New Version">
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ We choose a Convolutional Neural Network model (DCNN Model) as it can learn intr
 <table style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img width="270" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Playing-style%E6%A8%A1%E5%9E%8B.JPG" alt="Playing-style">
+      <img width="300" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/Playing-style%E6%A8%A1%E5%9E%8B.JPG" alt="Playing-style">
     </td>
   </tr>
 </table>
@@ -130,10 +130,10 @@ This study aims to comprehensively assess the model's performance by simulating 
 
 # Results
 **Public_test & Leaderboard [46/508]:**
-<div align = left><img width="390" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A11.JPG"></div><img width="390" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C1.JPG"/></div>
+<div align = left><img width="420" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A11.JPG"></div><img width="420" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C1.JPG"/></div>
 
 **Private_test & Leaderboard [48/508]:**
-<div align = left><img width="390" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A12.JPG"></div><img width="390" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C2.JPG"/></div>
+<div align = left><img width="420" height="400" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E5%90%8D%E6%AC%A12.JPG"></div><img width="420" height="150" src="https://github.com/RickZhang0730/Go-Game-Skill-Imitation-and-Style-Recognition-Competition/blob/main/Images/%E8%A8%93%E7%B7%B4%E7%B5%90%E6%9E%9C2.JPG"/></div>
 
 
 # Conclusion
