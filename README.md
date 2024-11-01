@@ -1,4 +1,3 @@
-https://1drv.ms/p/c/a3d918eaa1794158/EbAnHlgjT_VHvw2UeygtHy4Bor-aha7UpsbxEAyllBCc-w?e=kony0e
 This project endeavors to replicate and understand human behavior in Go through comprehensive training and prediction models on a 19x19 Go board. Two levels of playing strength, represented by Dan and Kyu players, are simulated, with predictions evaluated for accuracy against actual moves. Further analysis categorizes playing styles into aggressive, balanced, and territorial in specific game situations.
 
 Convolutional Neural Network (DCNN Model) is chosen for its capability to capture intricate board features, accommodating both local and global considerations, thereby enhancing prediction accuracy in the complex game of Go. Model training specifics are outlined for both Dan and Kyu players and the recognition of playing styles, utilizing various optimization techniques.
